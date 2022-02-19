@@ -26,7 +26,7 @@ Github: [LittleYang0531 (优秀的小杨同学) · GitHub](https://github.com/Li
 
 LittleYang OnlineJudge: [https://github.com/LittleYang0531/lyoj](https://github.com/LittleYang0531/lyoj)
 
-在线预览: [http://lyoj.littleyng.ml](http://lyoj.littleyng.ml)
+在线预览: [http://lyoj.littleyang.ml](http://lyoj.littleyang.ml)
 
 ## 大事记
 
