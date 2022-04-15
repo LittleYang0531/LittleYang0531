@@ -6,6 +6,12 @@
 
 Github: [LittleYang0531 (优秀的小杨同学) · GitHub](https://github.com/LittleYang0531)
 
+![](https://github-readme-stats.vercel.app/api?username=LittleYang0531&show_icons=true&theme=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleYang0531&layout=compact)
+
+![](https://activity-graph.herokuapp.com/graph?username=LittleYang0531&theme=github)
+
 在机房一般被人称作 `树哥哥`，要叫 `树姐姐` 也可以的啦。
 
 不要叫我 `Linux代师` 好吗 @[Perta](https://www.luogu.com.cn/user/485780)
@@ -16,19 +22,33 @@ Github: [LittleYang0531 (优秀的小杨同学) · GitHub](https://github.com/Li
 
 ![](https://luogu-card.vercel.app/about?id=185758&dark_mode=true)
 
-![](https://luogu.wao3.cn/api/guzhi?id=185758&scores=100,37,14,48,50&dark_mode=true)
+![](https://luogu.wao3.cn/api/guzhi?id=185758&scores=100,35,6,83,50,&,dark_mode=true)
 
 ~~好家伙~~ 错了，是下面这个
 
 ![](https://cdn.jsdelivr.net/gh/LittleYang0531/image/luogu/space/5.jpg)
 
-我的项目:
-
-LittleYang OnlineJudge: [https://github.com/LittleYang0531/lyoj](https://github.com/LittleYang0531/lyoj)
-
-在线预览: [http://lyoj.littleyang.ml](http://lyoj.littleyang.ml)
-
 ## 大事记
+
+2022.3.23
+
+感受过自己写的程序被老师点 star 的感觉吗
+
+(早知道网站里就不挂 Github 链接了)
+ 
+![](https://cdn.jsdelivr.net/gh/LittleYang0531/image/luogu/space/17.jpg)
+
+2022.3.20
+
+首次爆踩 std，可喜可贺，可喜可贺
+
+![](https://cdn.jsdelivr.net/gh/LittleYang0531/image/luogu/space/16.jpg)
+
+2022.3.11
+
+继某猪比不关电脑不退账号被JC之后又一诸彼出现了
+
+![](https://cdn.jsdelivr.net/gh/LittleYang0531/image/luogu/space/15.jpg)
 
 2022.2.19
 
@@ -46,9 +66,11 @@ LittleYang OnlineJudge: [https://github.com/LittleYang0531/lyoj](https://github.
 
 2022.2.9
 
-!\[](https://cdn.jsdelivr.net/gh/LittleYang0531/image/luogu/space/12.jpg)
+小母狗WG
 
-!\[](https://cdn.jsdelivr.net/gh/LittleYang0531/image/luogu/space/13.jpg)
+![](https://cdn.jsdelivr.net/gh/LittleYang0531/image/luogu/space/12.jpg)
+
+![](https://cdn.jsdelivr.net/gh/LittleYang0531/image/luogu/space/13.jpg)
 
 图片为什么没有加载?
 
@@ -59,12 +81,6 @@ LittleYang OnlineJudge: [https://github.com/LittleYang0531/lyoj](https://github.
 ![](https://cdn.jsdelivr.net/gh/LittleYang0531/image/luogu/space/10.jpg)
 
 ![](https://cdn.jsdelivr.net/gh/LittleYang0531/image/luogu/space/11.jpg)
-
-2021.12.29 
-
-![](https://github-readme-stats.vercel.app/api?username=LittleYang0531&show_icons=true&theme=compact)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleYang0531&layout=compact)
 
 2021.12.17 通过 200 祭
 
