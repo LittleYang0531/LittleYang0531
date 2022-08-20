@@ -102,12 +102,6 @@ Github: [LittleYang0531 (优秀的小杨同学) · GitHub](https://github.com/Li
 
 ![](https://cdn.jsdelivr.net/gh/LittleYang0531/image/luogu/space/2.jpg)
 
-2021.3.27
-
-![](https://cdn.jsdelivr.net/gh/LittleYang0531/image/luogu/space/8.jpg)
-
-# ~~我怎么没见着提高组考这么好?~~
-
 ## 友链
 
 **焯**鱼酱 & 华恋~**焯**
