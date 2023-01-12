@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [`webserver`-> Webserver & websocket library](https://github.com/lyoj-dev/webserver)  
 [`onset-detection-cplusplus` -> Recognising beats](https://github.com/LittleYang0531/onset-detection-cplusplus)  
 [`sonolus-server-cpp` -> An api server designed for ](https://github.com/LittleYang0531/sonolus-server-cpp)[Sonolus](https://github.com/Sonolus)  
-[`hwpl-web` -> Fork web version for ](https://github.com/LittleYang0531/hwpl-web)[Honeyworks Preview Live](https://honeyworks-game.com)
+[`hwpl-web` -> Fork web version for ](https://github.com/LittleYang0531/hwpl-web)[Honeyworks Premium Live](https://honeyworks-game.com)
 
 <br><br>
 
@@ -48,6 +48,24 @@ Here are some ideas to get you started:
 
 
 <br>
+
+# My Website
+
+- [www.littleyang.ml](https://www.littleyang.ml): Yucai News Website ([LittleYang0531/News-Website](https://github.com/LittleYang0531/News-Website) Preview). (Dead)
+- [ai.littleyang.ml](https://ai.littleyang.ml): Private NovelAI Service. (Survived sometimes)
+- [blog.littleyang.ml](https://blog.littleyang.ml): My blog website. (Because of jsdelivr, it can not be visited)
+- [cors.littleyang.ml](https://cors.littleyang.ml): CORS-anywhere-cloudflare Service. (Dead)
+- [docs.littleyang.ml](https://docs.littleyang.ml): Documentation website for [LittleYang0531/News-Website](https://github.com/LittleYang0531/News-Website).
+- [hwpl.littleyang.ml](https://hwpl.littleyang.ml): Honeyworks Premium Live (web version).
+- [music.littleyang.ml](https://music.littleyang.ml): Netease Music API Website (Third Party).
+- [oneindex.littleyang.ml](https://oneindex.littleyang.ml): My OneDrive file explorer (E5 Developer).
+- [pic.littleyang.ml](https://pic.littleyang.ml): Picture website for my normal life.
+- [pixiv.littleyang.ml](https://pixiv.littleyang.ml): Pixiv proxy website. 
+- [tools.littleyang.ml](https://tools.littleyang.ml): Small H5 tools developed by myself.
+
+- [www.lyoj.ml](https://www.lyoj.ml): LittleYang OnlineJudge Website ([lyoj-dev/lyoj](https://github.com/lyoj-dev/lyoj) Preview)
+- [blog.lyoj.ml](https://blog.lyoj.ml): lyoj-dev's blog
+- [cors.lyoj.ml](https://cors.lyoj.ml): CORS-anywhere-cloudflare Service.
 
 # 🍞 More
 |  🥩 Used OS   | 👌 Used Tools/Apps/Services  |
