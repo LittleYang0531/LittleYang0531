@@ -21,18 +21,22 @@ Here are some ideas to get you started:
 
 **C++ Project**
 
-- [`sonolus-server-cpp` -> An api server designed for ](https://github.com/LittleYang0531/sonolus-server-cpp)[Sonolus](https://github.com/Sonolus)  
-- [`onset-detection-cplusplus` -> Recognising beats](https://github.com/LittleYang0531/onset-detection-cplusplus)  
-- [`webserver`-> Webserver & websocket library](https://github.com/lyoj-dev/webserver)  
+- [5⭐ `sonolus-server-cpp` -> An api server designed for ](https://github.com/LittleYang0531/sonolus-server-cpp)[Sonolus](https://github.com/Sonolus)  
+- [2⭐ `onset-detection-cplusplus` -> Recognising beats](https://github.com/LittleYang0531/onset-detection-cplusplus)  
+- [3⭐ `webserver`-> Webserver & websocket library](https://github.com/lyoj-dev/webserver)  
 
 **PHP Project**
 
-- [`lyoj` -> An online judge platform](https://github.com/lyoj-dev/lyoj)  
-- [`News-Website` -> My first PHP Project](https://github.com/LittleYang0531/News-Website)  
+- [5⭐ `lyoj` -> An online judge platform①](https://github.com/lyoj-dev/lyoj)  
+- [2⭐ `News-Website` -> My first PHP Project](https://github.com/LittleYang0531/News-Website)  
 
 **JavaScript Prohect**
 
 - [`hwpl-web` -> Fork web version for ](https://github.com/LittleYang0531/hwpl-web)[Honeyworks Premium Live](https://honeyworks-game.com)
+
+------
+
+①: The [original repository](https://github.com/LittleYang0531/lyoj) have gained 5⭐ instead of the repository was linked to.
 
 <br><br>
 
