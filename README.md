@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **LittleYang0531/LittleYang0531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,23 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats-two-theta-93.vercel.app/api?username=LittleYang0531&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</a>
+![](https://github-readme-stats-two-theta-93.vercel.app/api?username=LittleYang0531&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 # 🔭 Working on
-[`News-Website` -> My first PHP Project](https://github.com/LittleYang0531/News-Website)  
-[`lyoj` -> An online judge platform](https://github.com/lyoj-dev/lyoj)  
-[`webserver`-> Webserver & websocket library](https://github.com/lyoj-dev/webserver)  
-[`onset-detection-cplusplus` -> Recognising beats](https://github.com/LittleYang0531/onset-detection-cplusplus)  
-[`sonolus-server-cpp` -> An api server designed for ](https://github.com/LittleYang0531/sonolus-server-cpp)[Sonolus](https://github.com/Sonolus)  
-[`hwpl-web` -> Fork web version for ](https://github.com/LittleYang0531/hwpl-web)[Honeyworks Premium Live](https://honeyworks-game.com)
+
+**C++ Project**
+
+- [`sonolus-server-cpp` -> An api server designed for ](https://github.com/LittleYang0531/sonolus-server-cpp)[Sonolus](https://github.com/Sonolus)  
+- [`onset-detection-cplusplus` -> Recognising beats](https://github.com/LittleYang0531/onset-detection-cplusplus)  
+- [`webserver`-> Webserver & websocket library](https://github.com/lyoj-dev/webserver)  
+
+**PHP Project**
+
+- [`lyoj` -> An online judge platform](https://github.com/lyoj-dev/lyoj)  
+- [`News-Website` -> My first PHP Project](https://github.com/LittleYang0531/News-Website)  
+
+**JavaScript Prohect**
+
+- [`hwpl-web` -> Fork web version for ](https://github.com/LittleYang0531/hwpl-web)[Honeyworks Premium Live](https://honeyworks-game.com)
 
 <br><br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="right" src="https://github-readme-stats-two-theta-93.vercel.app/api/top-langs/?username=LittleYang0531&theme=dark&layout=compact&langs_count=10" />
-</a>
+![](https://github-readme-stats-two-theta-93.vercel.app/api/top-langs/?username=LittleYang0531&theme=dark&layout=compact&langs_count=10")
 
 # 🌱 Learning
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://wikipedia.org/wiki/C_(programming_language))
