@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 **C++ Project**
 
 - [5⭐ `sonolus-server-cpp` -> An api server designed for ](https://github.com/LittleYang0531/sonolus-server-cpp)[Sonolus](https://github.com/Sonolus)  
-- [2⭐ `onset-detection-cplusplus` -> Recognising beats](https://github.com/LittleYang0531/onset-detection-cplusplus)  
+- [3⭐ `onset-detection-cplusplus` -> Recognising beats](https://github.com/LittleYang0531/onset-detection-cplusplus)  
 - [3⭐ `webserver`-> Webserver & websocket library](https://github.com/lyoj-dev/webserver)  
 
 **PHP Project**
