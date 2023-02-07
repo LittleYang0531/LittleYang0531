@@ -1,8 +1,8 @@
-<center><img src="http://pic.littleyang.ml/sonolus-server-screenshot/favicon.png"/></center>
+<p align="center"><img src="http://pic.littleyang.ml/sonolus-server-screenshot/favicon.png"/></p>
 
-<center><h1>Sonolus Server for C++</h1></center>
+<h1 align="center">Sonolus Server for C++</h1>
 
-[English](./README_en.md) [简体中文](./README.md)
+<p align="center"><a href="./README_en.md">English</a>&nbsp; <a href="./README.md">简体中文</a></p>
 
 使用 C++ 与 MySQL 开发的一个适用于 Sonolus 的 api 服务器，您可以用于测试您自己的引擎或自己构建一个 Sonolus 服务。
 
