@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - [5⭐ `lyoj` -> An online judge platform①](https://github.com/lyoj-dev/lyoj)  
 - [2⭐ `News-Website` -> My first PHP Project](https://github.com/LittleYang0531/News-Website)  
 
-**JavaScript Prohect**
+**JavaScript Project**
 
 - [`hwpl-web` -> Fork web version for ](https://github.com/LittleYang0531/hwpl-web)[Honeyworks Premium Live](https://honeyworks-game.com)
 
