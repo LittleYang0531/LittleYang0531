@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 **C++ Project**
 
-- [8⭐ `sonolus-server-cpp` -> An api server designed for ](https://github.com/LittleYang0531/sonolus-server-cpp)[Sonolus](https://github.com/Sonolus)  
+- [8⭐ `sonolus-server-cpp` -> An api server designed for ](https://github.com/SonolusHaniwa/sonolus-server-cpp)[Sonolus](https://github.com/Sonolus)  
 - [4⭐ `onset-detection-cplusplus` -> Recognising beats](https://github.com/LittleYang0531/onset-detection-cplusplus)  
 - [4⭐ `webserver`-> Webserver & websocket library](https://github.com/lyoj-dev/webserver)  
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 **JavaScript/TypeScript Project**
 
 - [`hwpl-web` -> Fork web version for ](https://github.com/LittleYang0531/hwpl-web)[Honeyworks Premium Live](https://honeyworks-game.com)
-- [1⭐ `sonolus-hwpl-engine` -> Sonolus engine for ](https://github.com/LittleYang0531/sonolus-hwpl-engine)[Honeyworks Premium Live](https://honeyworks-game.com)
+- [1⭐ `sonolus-hwpl-engine` -> Sonolus engine for ](https://github.com/SonolusHaniwa/sonolus-hwpl-engine)[Honeyworks Premium Live](https://honeyworks-game.com)
 
 ------
 
