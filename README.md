@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 **JavaScript/TypeScript Project**
 
 - [`hwpl-web` -> Fork web version for ](https://github.com/LittleYang0531/hwpl-web)[Honeyworks Premium Live](https://honeyworks-game.com)
-- [1⭐ `sonolus-hwpl-engine` -> Sonolus engine for ](https://github.com/SonolusHaniwa/sonolus-hwpl-engine)[Honeyworks Premium Live](https://honeyworks-game.com)
+- [3⭐ `sonolus-hwpl-engine` -> Sonolus engine for ](https://github.com/SonolusHaniwa/sonolus-hwpl-engine)[Honeyworks Premium Live](https://honeyworks-game.com)
 
 ------
 
