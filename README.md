@@ -21,9 +21,13 @@ Here are some ideas to get you started:
 
 **C++ Project**
 
+- [4⭐ `sonolus-sirius-engine` -> A recreation of World Dai Star: Dream's Stellarium engine in Sonolus](https://github.com/SonolusHaniwa/sonolus-sirius-engine)
+- [3⭐ `sonolus-hwpl-engine` -> A recreation of Honeyworks Premium Live engine in Sonolus](https://github.com/SonolusHaniwa/sonolus-hwpl-engine)
+- [3⭐ `sonolus.h` -> C++ based Developer Toolkit for Sonolus](https://github.com/SonolusHaniwa/sonolus.h)
+- [9⭐ `sirius-toolbox` -> Toolbox for decoding assets in World Dai Star](https://github.com/SonolusHaniwa/sirius-toolbox)
 - [8⭐ `sonolus-server-cpp` -> An api server designed for ](https://github.com/SonolusHaniwa/sonolus-server-cpp)[Sonolus](https://github.com/Sonolus)  
 - [4⭐ `onset-detection-cplusplus` -> Recognising beats](https://github.com/LittleYang0531/onset-detection-cplusplus)  
-- [4⭐ `webserver`-> Webserver & websocket library](https://github.com/lyoj-dev/webserver)  
+- [5⭐ `webserver`-> Webserver & websocket library](https://github.com/lyoj-dev/webserver)  
 
 **PHP Project**
 
@@ -33,7 +37,6 @@ Here are some ideas to get you started:
 **JavaScript/TypeScript Project**
 
 - [`hwpl-web` -> Fork web version for ](https://github.com/LittleYang0531/hwpl-web)[Honeyworks Premium Live](https://honeyworks-game.com)
-- [3⭐ `sonolus-hwpl-engine` -> Sonolus engine for ](https://github.com/SonolusHaniwa/sonolus-hwpl-engine)[Honeyworks Premium Live](https://honeyworks-game.com)
 
 ------
 
