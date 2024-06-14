@@ -19,14 +19,20 @@ Here are some ideas to get you started:
 
 # 🔭 Working on
 
+**Sonolus**
+
+- [World Dai Star Server](https://wds.server.littleyang.me)
+- [Stellarity Server](https://stellarity.littleyang.me)
+- [Simplified Chinese Translator](https://github.com/LittleYang0531/api-venus-zhs)
+
 **C++ Project**
 
-- [4⭐ `sonolus-sirius-engine` -> A recreation of World Dai Star: Dream's Stellarium engine in Sonolus](https://github.com/SonolusHaniwa/sonolus-sirius-engine)
+- [6⭐ `sonolus-sirius-engine` -> A recreation of World Dai Star: Dream's Stellarium engine in Sonolus](https://github.com/SonolusHaniwa/sonolus-sirius-engine)
 - [3⭐ `sonolus-hwpl-engine` -> A recreation of Honeyworks Premium Live engine in Sonolus](https://github.com/SonolusHaniwa/sonolus-hwpl-engine)
 - [3⭐ `sonolus.h` -> C++ based Developer Toolkit for Sonolus](https://github.com/SonolusHaniwa/sonolus.h)
-- [9⭐ `sirius-toolbox` -> Toolbox for decoding assets in World Dai Star](https://github.com/SonolusHaniwa/sirius-toolbox)
-- [8⭐ `sonolus-server-cpp` -> An api server designed for ](https://github.com/SonolusHaniwa/sonolus-server-cpp)[Sonolus](https://github.com/Sonolus)  
-- [4⭐ `onset-detection-cplusplus` -> Recognising beats](https://github.com/LittleYang0531/onset-detection-cplusplus)  
+- [15⭐ `sirius-toolbox` -> Toolbox for decoding assets in World Dai Star](https://github.com/SonolusHaniwa/sirius-toolbox)
+- [9⭐ `sonolus-server-cpp` -> An api server designed for ](https://github.com/SonolusHaniwa/sonolus-server-cpp)[Sonolus](https://github.com/Sonolus)  
+- [5⭐ `onset-detection-cplusplus` -> Recognising beats](https://github.com/LittleYang0531/onset-detection-cplusplus)  
 - [5⭐ `webserver`-> Webserver & websocket library](https://github.com/lyoj-dev/webserver)  
 
 **PHP Project**
@@ -62,6 +68,7 @@ Here are some ideas to get you started:
 
 <br>
 
+<!--
 # My Website
 - [www.littleyang.ml](https://www.littleyang.ml): Yucai News Website ([LittleYang0531/News-Website](https://github.com/LittleYang0531/News-Website) Preview). (Dead)
 - [ai.littleyang.ml](https://ai.littleyang.ml): Private NovelAI Service. (Survived sometimes)
@@ -80,6 +87,7 @@ Here are some ideas to get you started:
 - [www.lyoj.ml](https://www.lyoj.ml): LittleYang OnlineJudge Website ([lyoj-dev/lyoj](https://github.com/lyoj-dev/lyoj) Preview)
 - [blog.lyoj.ml](https://blog.lyoj.ml): lyoj-dev's blog
 - [cors.lyoj.ml](https://cors.lyoj.ml): CORS-anywhere-cloudflare Service.
+-->
 
 # 🍞 More
 |  🥩 Used OS   | 👌 Used Tools/Apps/Services  |
